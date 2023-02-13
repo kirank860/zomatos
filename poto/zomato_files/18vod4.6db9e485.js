@@ -1,0 +1,1 @@
+(this.$WP=this.$WP||[]).push(["18vod4",(r,e)=>{"use strict";var t,u,n,s=({shouldLoad:r,children:e})=>{var s=t.useRef(r);return r&&!s.current&&(s.current=!0),s.current?u(n,{children:e}):null};return[()=>{r("default",s)},[r=>t=r,r=>(u=r.jsx,n=r.Fragment)]]},["1o4yt4","121h32"]]);

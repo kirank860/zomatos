@@ -1,0 +1,1 @@
+(this.$WP=this.$WP||[]).push(["k5n2qt",(t,s)=>{"use strict";var a=t=>t?"ta":"a",u=()=>"mm",i=["allsub","favsub","hasub","rssub","vidsub","pbsub"];return[()=>{t({getAllPhotosAlbumDataStrategy:a,getConfigurationForHrAtfMediaWindow:u,mediaCountConfigurations:i})},[]]},[]]);

@@ -1,0 +1,1 @@
+(this.$WP=this.$WP||[]).push(["ax76gg",(r,e)=>{"use strict";var t,s,i,n=({children:r})=>{var e=t(),n="RegistrationController"===e.page&&!e.params.fullscreen||"Story"===e.page;return i(s,{forceDisabled:n,children:r})};return[()=>{r("LithiumConsentProvider",n)},[r=>t=r.useRoute,r=>s=r.ConsentProvider,r=>i=r.jsx]]},["fgwvq1","1973cc","121h32"]]);

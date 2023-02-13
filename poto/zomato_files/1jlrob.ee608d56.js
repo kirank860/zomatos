@@ -1,0 +1,1 @@
+(this.$WP=this.$WP||[]).push(["1jlrob",(e,t)=>{"use strict";var i,o,s,l,r={},d=({pos:e,mobile:t,tablet:i,desktop:o})=>l(s,{position:e,size:{mobile:t,tablet:i,desktop:o}}),a=e=>l(o,{value:r,children:l(d,{...e})});return[()=>{e("default",i(a))},[e=>i=e.memo,e=>(o=e.AdTargetingProvider,s=e.InlineAd),e=>l=e.jsx]]},["1o4yt4","19m912","121h32"]]);

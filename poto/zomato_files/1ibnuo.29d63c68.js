@@ -1,0 +1,1 @@
+(this.$WP=this.$WP||[]).push(["1ibnuo",(e,t)=>{"use strict";var o,r,n,u=e=>({servlet:e.route.page,geoId:e.route.geo||e.route.geoId||1});return[()=>{n=o(u)(r),e("default",n)},[e=>o=e.connect,e=>r=e.GenericMapComponent]]},["12mj4n","15xqg7"]]);

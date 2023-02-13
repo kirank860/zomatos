@@ -1,0 +1,1 @@
+(this.$WP=this.$WP||[]).push(["1d7ku1",(t,e)=>{"use strict";var r,n=()=>{var{status:t,fetching:e,error:n,refetch:s}=r();return{data:t,fetching:e,error:n,getDiningClubPaymentStatus:s}};return[()=>{t("usePaymentStatus",n)},[t=>r=t.useIsDiningClubMemberLoggedInState]]},["1cwn4k"]]);

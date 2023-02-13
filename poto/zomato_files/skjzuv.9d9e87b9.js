@@ -1,0 +1,1 @@
+(this.$WP=this.$WP||[]).push(["skjzuv",(e,t)=>{"use strict";var s,a={},r=e=>{Object.entries(e).forEach((([e,t])=>{a[e.toLowerCase()]=t}))},u=e=>!!a[e.toLowerCase()];return[()=>{r(s),e({featureIsEnabled:u,loadFeatures:r})},[e=>s=e.default]]},["@ta/features"]]);

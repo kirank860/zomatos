@@ -1,0 +1,1 @@
+(this.$WP=this.$WP||[]).push(["tyfdev",(e,s)=>{"use strict";var r,t,i=()=>t("div",{className:"_Q l t f u Ph PV Pu PH Gr",children:t(r,{iconColor:"secondary",textColor:"secondary",size:22})});return[()=>{e("DiningClubBadge",i)},[e=>r=e.default,e=>t=e.jsx]]},["1m5udk","121h32"]]);

@@ -1,0 +1,1 @@
+(this.$WP=this.$WP||[]).push(["12w744",(e,r)=>{"use strict";var s,t,n=({children:e})=>s(t,{children:e}),h=(e,r)=>e;return[()=>{e({default:n,needsTranslation:h})},[e=>(s=e.jsx,t=e.Fragment)]]},["121h32"]]);

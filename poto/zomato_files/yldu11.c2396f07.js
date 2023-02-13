@@ -1,0 +1,1 @@
+(this.$WP=this.$WP||[]).push(["yldu11",(o,s)=>{"use strict";var t,i,r,u,e="CENTER",P=()=>r(i,{promoPosition:e});return[()=>{u=t(((o,s)=>(i.stage(o,s,{promoPosition:e}),()=>({}))))(P),o("default",u)},[o=>t=o.bind,o=>i=o.CMSPromo,o=>r=o.jsx]]},["16z5q2","sevubl","121h32"]]);

@@ -1,0 +1,1 @@
+(this.$WP=this.$WP||[]).push(["vpo3wt",(e,r)=>{"use strict";var t=({pageLayoutOverride:e})=>{switch(e){case"b2b-narrow":return"qWyeO";case"b2b-wide":return"OiOtR";default:return}};return[()=>{e({pageLayoutOverride:t,themeClassNames:{LIGHT:void 0,DARK:"RIEYs",AUTO:"yyXnJ"}})},[]]},[]]);

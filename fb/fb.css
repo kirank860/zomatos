@@ -1,0 +1,89 @@
+.header{
+    background: #3b5993;
+    width: 100%;
+    height: 85px;
+}
+ body{
+    margin: 0;
+    font-family: Helvetica Neue, Arial, Helvetica, sans-serif;
+ }
+ .logo{
+    width: 50%;
+    padding-top: 32px;
+    float: left;
+
+ }
+  .login{
+    width: 50%;
+    float: left;
+  }
+  .logo-text{
+    color: #fff;
+    font-size: 35px;
+    font-weight: bold;
+    text-decoration: navajowhite;
+    font-family: Helvetica Neue, Arial, Helvetica, sans-serif;
+    margin-left: 170px;
+  }
+   .login-label{
+    color: #fff;
+    font-size: 15px;
+   }
+   .login-controls{
+    margin-left: 115px;
+   }
+   .login{
+    padding-top: 10px;
+   }
+   .forgetten {
+    color: aliceblue;
+    font-size: unset;
+    text-decoration: none;
+    color: #fff;
+  }
+  .sub-btn{
+    background: #4267b2;
+    color: #fff;
+    border-color: lightslategray;
+    cursor: pointer;
+  }
+  .sub-btn:hover{
+    background: red;
+  }
+  .left-section{
+    width: 50%;
+    float: left;
+    padding-left: 40px;
+    padding-top: 10px;
+  
+  }
+  .right-section{
+    width: 40%;
+    float: left;
+    font-size: 34px;
+    padding-left: 84px;
+  
+  
+  }
+  .main-body{
+    background: linear-gradient(white,#D3D8E8);
+    width: 100%;
+    height: 500px;
+  
+  }
+   .para{
+    font-weight: bold;
+    padding-left: 140px;
+   }
+   .image{
+    width: 500px;
+    padding-left: 141px;
+    padding-top: -2px;
+  }
+  .content{
+    color: #fcfcfc;
+    background: #12a30d;
+  }
+  
+   
+   
